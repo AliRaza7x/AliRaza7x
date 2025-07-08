@@ -31,10 +31,16 @@
 </p>
 
 ### 📊 GitHub Stats:
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRaza07&show_icons=true&locale=en)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliRaza07&show_icons=true&locale=en&theme=default" alt="AliRaza07 GitHub Stats" />
+</p>
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=AliRaza07&theme=default&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AliRaza07&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ### 🔝 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza07&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza07&layout=compact&theme=default" alt="Top Languages" />
+</p>
