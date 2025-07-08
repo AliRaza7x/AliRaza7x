@@ -1,37 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">Data Analytics & Machine Learning Enthusiast | CS Student | Backend Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliRaza07&label=Profile%20views&color=0e75b6&style=flat" alt="AliRaza07" />
-  <img src="https://img.shields.io/github/followers/AliRaza07?label=Followers&style=social" alt="followers"/>
-</p>
-
----
-
 - 🌱 I’m currently learning **Flask**, **React**, **Docker**, and full-stack development  
 - 💻 Tech interests: APIs, SQL optimization, Data Analytics, Understanding the world of ML & AI  
-- 📫 Reach me at: **aliraza.141@outlook.com**  
-- ⚡ Fun fact: I love breaking things… so I can try to fix them better 😄
+- 📫 Reach me at **aliraza.141@outlook.com**  
+- ⚡ Fun fact **I love breaking things… so I can try to fix them better 😄**
 
----
-
-### 🌐 Connect with me:
+### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-raza-a76a9729" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/AliRaza07" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/aliraz9t6b/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="gfg" height="30" width="40" />
   </a>
 </p>
 
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
+### Languages and Tools:
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -41,24 +30,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
 </p>
 
----
-
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliRaza07&show_icons=true&locale=en&theme=radical" alt="AliRaza07's GitHub Stats" />
-</p>
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRaza07&show_icons=true&locale=en)
 
 ### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliRaza07&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=AliRaza07&theme=default&hide_border=false)
 
 ### 🔝 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 Let’s Build Something Awesome Together!
-Always up for collaboration, solving problems, and contributing to cool projects.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza07&layout=compact)
