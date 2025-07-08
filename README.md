@@ -17,9 +17,17 @@
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-raza-a76a9729)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/AliRaza07)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/aliraz9t6b/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ali-raza-a76a9729" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/AliRaza07" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/aliraz9t6b/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
