@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">Data Analytics & Machine Learning Enthusiast | CS Student | Backend Enthusiast </h3>
+<h3 align="center">Data Analytics & Machine Learning Enthusiast | CS Student | Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliRaza07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AliRaza07?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=AliRaza07&label=Profile%20views&color=0e75b6&style=flat" alt="AliRaza07" />
+  <img src="https://img.shields.io/github/followers/AliRaza07?label=Followers&style=social" alt="followers"/>
 </p>
 
 ---
@@ -16,7 +16,6 @@
 ---
 
 ### 🌐 Connect with me:
-
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-raza-a76a9729" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -46,7 +45,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliRaza07&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliRaza07&show_icons=true&locale=en&theme=radical" alt="AliRaza07's GitHub Stats" />
 </p>
 
 ### 🔥 GitHub Streak:
