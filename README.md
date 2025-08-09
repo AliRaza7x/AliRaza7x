@@ -29,18 +29,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
 </p>
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliRaza07&show_icons=true&locale=en&theme=default" alt="AliRaza07 GitHub Stats" />
-</p>
-
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliRaza07&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
-
-### 🔝 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza07&layout=compact&theme=default" alt="Top Languages" />
-</p>
