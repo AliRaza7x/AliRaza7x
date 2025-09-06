@@ -4,7 +4,8 @@
 - 🌱 I’m currently diving deeper into the world of data exploring Generative AI and Machine Learning  
 - 💻 Tech interests: APIs, SQL optimization, Data Analytics, Understanding the world of ML & AI  
 - 📫 Reach me at **aliraza.141@outlook.com**  
-- ⚡ Fun fact **I love breaking things… so I can try to fix them better 😄**
+- ⚡ Fun fact **I love breaking things… so I can try to fix them better 😄**  
+- 🌐 Check out my [Portfolio](https://ali-raza-portfolio-eta.vercel.app/)  
 
 ### Connect with me:
 <p align="left">
