@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">Aspiring Data Engineer | CS Student | Backend Development and Data Analytics & ML Enthusiast</h3>
 
-- 🌱 I’m currently diving deeper into the world of data exploring Generative AI and Machine Learning  
-- 💻 Tech interests: APIs, SQL optimization, Data Analytics, ETL pipelines, Understanding the world of ML & AI  
+- 🌱 I’m currently diving deeper into Data Engineering, Data Science & Machine Learning  
+- 💻 Tech interests: APIs, SQL optimization, Data Analytics, Understanding the world of ML & AI  
 - 📫 Reach me at **aliraza.141@outlook.com**  
 - ⚡ Fun fact **I love breaking things… so I can try to fix them better 😄**  
 - 🌐 Check out my [Portfolio](https://ali-raza-portfolio-eta.vercel.app/)  
