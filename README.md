@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Raza</h1>
+<h1 align="center">Hey y'all 👋, I'm Ali Raza</h1>
 <h3 align="center">Aspiring Data Engineer | CS Student | Backend Development and Data Analytics & ML Enthusiast</h3>
 
 - 🌱 I’m currently diving deeper into Data Engineering, Data Science & Machine Learning  
