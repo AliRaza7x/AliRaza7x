@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Ali Raza - Data Engineering, Analytics, Backend" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2e8b57,50:0d1117,100:00ff9c&section=header" alt="banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=58&duration=2500&pause=100000&color=00FF9C&center=true&vCenter=true&repeat=false&width=640&height=80&lines=ALI+RAZA" alt="Ali Raza" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=9FF5CF&center=true&vCenter=true&width=700&height=30&lines=DATA+ENGINEERING+%C2%B7+ANALYTICS+%C2%B7+BACKEND;ASPIRING+DATA+ENGINEER+%7C+CS+STUDENT;ML+%26+AI+ENTHUSIAST" alt="roles" />
+</a>
 
 <br/>
 
@@ -14,13 +22,28 @@
 
 <br/>
 
-<img src="assets/terminal.svg" width="100%" alt="terminal" />
+<img src="https://img.shields.io/badge/-~%2Fprofile-2e8b57?style=flat-square" alt="profile" />
 
-<br/><br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=700&color=00FF9C&multiline=true&repeat=true&width=720&height=190&lines=%24+whoami;%3E+ali_raza+%C2%B7+cs+student+%C2%B7+data+engineer+in+the+making;%24+cat+focus.txt;%3E+data+pipelines+%C2%B7+BI+%26+analytics+%C2%B7+backend+%26+APIs;%24+echo+%24FUN_FACT;%3E+i+love+breaking+things%2C+so+i+can+fix+them+better" alt="terminal" />
+</a>
 
-<img src="assets/pipeline.svg" width="100%" alt="pipeline: events, Kafka, PySpark, Postgres, Power BI" />
+<br/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/-PIPELINE-2e8b57?style=flat-square" alt="pipeline" />
+
+```mermaid
+flowchart LR
+    A([Events]):::a --> B[Kafka]:::b
+    B --> C[PySpark]:::a
+    C --> D[(PostgreSQL)]:::b
+    D --> E[Power BI]:::a
+    G{{Airflow}}:::c -.-> C
+    G -.-> D
+    classDef a fill:#0d1117,stroke:#00ff9c,stroke-width:2px,color:#00ff9c
+    classDef b fill:#0d1117,stroke:#2e8b57,stroke-width:2px,color:#9ff5cf
+    classDef c fill:#0d1117,stroke:#00ff9c,stroke-dasharray:4 3,color:#00ff9c
+```
 
 <img src="https://img.shields.io/badge/-TECH%20STACK-2e8b57?style=flat-square" alt="tech stack" />
 
@@ -58,8 +81,6 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AliRaza7x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=2e8b57&text_color=c9d1d9&ring_color=00ff9c" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza7x&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="top languages" />
 
-<br/><br/>
-
-<img src="assets/footer.svg" width="100%" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ff9c,50:0d1117,100:2e8b57&section=footer" alt="footer" />
 
 </div>
