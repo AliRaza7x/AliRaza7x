@@ -1,14 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2e8b57,50:0d1117,100:00ff9c&section=header" alt="banner" />
-
-# Ali Raza
-
-**Aspiring Data Engineer &nbsp;|&nbsp; CS Student &nbsp;|&nbsp; Backend, Data Analytics & ML Enthusiast**
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=00FF9C&center=true&vCenter=true&width=700&height=36&lines=Kafka+%E2%86%92+PySpark+%E2%86%92+Postgres+%E2%86%92+Power+BI;Turning+raw+data+into+decisions;I+love+breaking+things+so+I+can+fix+them+better" alt="typing" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Ali Raza - Data Engineering, Analytics, Backend" />
 
 <br/>
 
@@ -18,14 +10,17 @@
 <a href="https://auth.geeksforgeeks.org/user/aliraz9t6b/"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="32" alt="geeksforgeeks" /></a>&nbsp;&nbsp;
 <a href="https://ali-raza-portfolio-eta.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00ff9c?style=for-the-badge&labelColor=0d1117" height="28" alt="portfolio" /></a>
 
-<br/><br/>
-
-🌱 Diving deeper into **Data Engineering**, **Data Science** & **Machine Learning**<br/>
-💻 Into **APIs**, **SQL optimization**, **BI & analytics**, and the world of ML & AI<br/>
-📫 **aliraza.141@outlook.com**<br/>
-⚡ I love breaking things… so I can try to fix them better 😄
+<sub>📫 <b>aliraza.141@outlook.com</b></sub>
 
 <br/>
+
+<img src="assets/terminal.svg" width="100%" alt="terminal" />
+
+<br/><br/>
+
+<img src="assets/pipeline.svg" width="100%" alt="pipeline: events, Kafka, PySpark, Postgres, Power BI" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/-TECH%20STACK-2e8b57?style=flat-square" alt="tech stack" />
 
@@ -65,8 +60,6 @@
 
 <br/><br/>
 
-<img width="90%" src="https://ghchart.rshah.org/00ff9c/AliRaza7x" alt="contribution graph" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ff9c,50:0d1117,100:2e8b57&section=footer" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>
